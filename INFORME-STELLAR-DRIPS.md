@@ -337,6 +337,7 @@ Contrato Soroban
    ↓
 
 Red Stellar
+```
 ---
 
 # 6. Análisis técnico de Drips Protocol
@@ -606,6 +607,7 @@ Configuración de Drips
 Financiamiento
         ↓
 Mantenimiento del proyecto
+```
 ---
 
 # 7. Pensamiento crítico sobre seguridad, calidad y ética
@@ -1049,3 +1051,5 @@ Integración      Financiamiento
 
 
 
+
+```
