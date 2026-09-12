@@ -1,30 +1,30 @@
-\# INFORME STELLAR / DRIPS
+﻿# INFORME STELLAR / DRIPS
 
 
 
-\## Proyecto
+## Proyecto
 
 
 
-\*\*Plataforma comunitaria para la preservación y transmisión de la lengua y memoria cultural de Santa María Cuquila\*\*
+**Plataforma comunitaria para la preservación y transmisión de la lengua y memoria cultural de Santa María Cuquila**
 
 
 
-\*\*Asignatura:\*\* Gestión de Proyectos de Software
+**Asignatura:** Gestión de Proyectos de Software
 
-\*\*Unidad:\*\* 2
+**Unidad:** 2
 
-\*\*Actividad:\*\* Informe Stellar/Drips
+**Actividad:** Informe Stellar/Drips
 
-\*\*Fecha:\*\* Septiembre de 2026
-
-
-
-\---
+**Fecha:** Septiembre de 2026
 
 
 
-\# 1. Introducción
+---
+
+
+
+# 1. Introducción
 
 
 
@@ -44,11 +44,11 @@ El análisis también toma en cuenta las condiciones de la región Mixteca, espe
 
 
 
-\---
+---
 
 
 
-\# 2. Problemática del proyecto
+# 2. Problemática del proyecto
 
 
 
@@ -56,7 +56,7 @@ La problemática seleccionada es:
 
 
 
-\*\*Preservación y transmisión de la lengua y memoria cultural de Santa María Cuquila.\*\*
+**Preservación y transmisión de la lengua y memoria cultural de Santa María Cuquila.**
 
 
 
@@ -64,15 +64,15 @@ La propuesta contempla una plataforma con funcionalidades para:
 
 
 
-\- consultar palabras y expresiones;
+- consultar palabras y expresiones;
 
-\- escuchar pronunciaciones;
+- escuchar pronunciaciones;
 
-\- aportar conocimiento;
+- aportar conocimiento;
 
-\- consultar memoria cultural;
+- consultar memoria cultural;
 
-\- validar contenido.
+- validar contenido.
 
 
 
@@ -80,11 +80,11 @@ El objetivo tecnológico no es utilizar blockchain por sí misma, sino analizar 
 
 
 
-\---
+---
 
 
 
-\# 3. Objetivo del informe
+# 3. Objetivo del informe
 
 
 
@@ -92,37 +92,37 @@ Analizar técnicamente Stellar y Drips, identificar sus requisitos de calidad y 
 
 
 
-\---
+---
 
 
 
-\# 4. Objetivos específicos
+# 4. Objetivos específicos
 
 
 
-\- Investigar las características técnicas de Stellar y Soroban.
+- Investigar las características técnicas de Stellar y Soroban.
 
-\- Analizar los mecanismos de financiamiento de Drips.
+- Analizar los mecanismos de financiamiento de Drips.
 
-\- Identificar requisitos de calidad y seguridad.
+- Identificar requisitos de calidad y seguridad.
 
-\- Adaptar métricas al contexto de la región Mixteca.
+- Adaptar métricas al contexto de la región Mixteca.
 
-\- Analizar riesgos técnicos y éticos.
+- Analizar riesgos técnicos y éticos.
 
-\- Relacionar calidad de software y financiamiento Web3.
+- Relacionar calidad de software y financiamiento Web3.
 
-\- Determinar qué partes del proyecto podrían beneficiarse realmente de estas tecnologías.
+- Determinar qué partes del proyecto podrían beneficiarse realmente de estas tecnologías.
 
-\---
-
-
-
-\# 5. Análisis técnico de Stellar y Soroban
+---
 
 
 
-\## 5.1 Stellar y Soroban
+# 5. Análisis técnico de Stellar y Soroban
+
+
+
+## 5.1 Stellar y Soroban
 
 
 
@@ -134,25 +134,25 @@ Para nuestro análisis es importante distinguir ambas capas:
 
 
 
-\- \*\*Stellar:\*\* red blockchain donde se registran las operaciones.
+- **Stellar:** red blockchain donde se registran las operaciones.
 
-\- \*\*Soroban:\*\* plataforma que permite ejecutar contratos inteligentes sobre Stellar.
-
-
-
-Los contratos de Soroban se desarrollan actualmente con Rust y se compilan a WebAssembly (Wasm). La documentación oficial también señala que el entorno de ejecución tiene restricciones de recursos y seguridad, por lo que no todo el ecosistema estándar de Rust puede utilizarse directamente dentro de los contratos. :contentReference\[oaicite:1]{index=1}
+- **Soroban:** plataforma que permite ejecutar contratos inteligentes sobre Stellar.
 
 
 
-\---
+Los contratos de Soroban se desarrollan actualmente con Rust y se compilan a WebAssembly (Wasm). La documentación oficial también señala que el entorno de ejecución tiene restricciones de recursos y seguridad, por lo que no todo el ecosistema estándar de Rust puede utilizarse directamente dentro de los contratos. 
 
 
 
-\## 5.2 Herramientas de desarrollo
+---
 
 
 
-El desarrollo de contratos Soroban utiliza el \*\*Soroban Rust SDK\*\* y el \*\*Stellar CLI\*\*.
+## 5.2 Herramientas de desarrollo
+
+
+
+El desarrollo de contratos Soroban utiliza el **Soroban Rust SDK** y el **Stellar CLI**.
 
 
 
@@ -160,29 +160,29 @@ Estas herramientas permiten realizar actividades como:
 
 
 
-\- compilación;
+- compilación;
 
-\- pruebas;
+- pruebas;
 
-\- inspección;
+- inspección;
 
-\- versionado;
+- versionado;
 
-\- despliegue;
+- despliegue;
 
-\- interacción con contratos.
-
-
-
-Además, el entorno local permite ejecutar y probar contratos en la computadora del desarrollador antes de utilizarlos en una red pública. :contentReference\[oaicite:2]{index=2}
+- interacción con contratos.
 
 
 
-\---
+Además, el entorno local permite ejecutar y probar contratos en la computadora del desarrollador antes de utilizarlos en una red pública. 
 
 
 
-\## 5.3 Requisitos técnicos
+---
+
+
+
+## 5.3 Requisitos técnicos
 
 
 
@@ -208,15 +208,15 @@ Una integración de nuestro proyecto con Soroban tendría que considerar como m�
 
 
 
-La documentación oficial actual requiere Rust 1.84.0 o superior para utilizar el target `wasm32v1-none` y recomienda emplear `stellar contract build` para construir contratos. :contentReference\[oaicite:3]{index=3}
+La documentación oficial actual requiere Rust 1.84.0 o superior para utilizar el target `wasm32v1-none` y recomienda emplear `stellar contract build` para construir contratos. 
 
 
 
-\---
+---
 
 
 
-\## 5.4 Calidad del código
+## 5.4 Calidad del código
 
 
 
@@ -236,31 +236,31 @@ Para nuestro proyecto se propone revisar:
 
 
 
-\- claridad del código;
+- claridad del código;
 
-\- validación de entradas;
+- validación de entradas;
 
-\- control de autorización;
+- control de autorización;
 
-\- manejo de errores;
+- manejo de errores;
 
-\- consumo de recursos;
+- consumo de recursos;
 
-\- dependencias;
+- dependencias;
 
-\- pruebas automatizadas;
+- pruebas automatizadas;
 
-\- documentación;
+- documentación;
 
-\- control de versiones.
-
-
-
-\---
+- control de versiones.
 
 
 
-\## 5.5 Pruebas locales
+---
+
+
+
+## 5.5 Pruebas locales
 
 
 
@@ -272,11 +272,11 @@ El SDK de Soroban proporciona herramientas para realizar pruebas unitarias y per
 
 
 
-Esto permite detectar errores antes de utilizar una red pública. :contentReference\[oaicite:4]{index=4}
+Esto permite detectar errores antes de utilizar una red pública. 
 
 
 
-\### Aplicación al proyecto
+### Aplicación al proyecto
 
 
 
@@ -284,25 +284,25 @@ Antes de utilizar blockchain se podrían probar:
 
 
 
-\- escritura y lectura de información;
+- escritura y lectura de información;
 
-\- validación de permisos;
+- validación de permisos;
 
-\- operaciones financieras;
+- operaciones financieras;
 
-\- datos inválidos;
+- datos inválidos;
 
-\- errores esperados;
+- errores esperados;
 
-\- límites del contrato.
-
-
-
-\---
+- límites del contrato.
 
 
 
-\## 5.6 Pruebas de integración
+---
+
+
+
+## 5.6 Pruebas de integración
 
 
 
@@ -310,7 +310,7 @@ Las pruebas de integración permiten comprobar la interacción entre diferentes 
 
 
 
-La documentación de Stellar contempla utilidades para probar contratos contra otros contratos y utilizar contratos reales desplegados en redes como Testnet. :contentReference\[oaicite:5]{index=5}
+La documentación de Stellar contempla utilidades para probar contratos contra otros contratos y utilizar contratos reales desplegados en redes como Testnet. 
 
 
 
@@ -322,19 +322,19 @@ Para nuestro proyecto se podrían evaluar:
 
 Aplicación
 
-&#x20;  ↓
+   ↓
 
 API
 
-&#x20;  ↓
+   ↓
 
 Módulo Web3
 
-&#x20;  ↓
+   ↓
 
 Contrato Soroban
 
-&#x20;  ↓
+   ↓
 
 Red Stellar
 ---
@@ -509,9 +509,9 @@ Una configuración incorrecta de porcentajes puede hacer que los fondos se distr
 
 La seguridad no debe asumirse únicamente porque un protocolo sea de código abierto.
 
-Drips cuenta con revisiones de seguridad públicas. Una revisión reciente del protocolo examinó contratos desplegados en Ethereum y registró hallazgos de distinta naturaleza, incluyendo problemas de bajo nivel, optimizaciones de gas e información adicional. Esto demuestra que incluso un sistema público y auditado requiere revisión continua. :contentReference[oaicite:1]{index=1}
+Drips cuenta con revisiones de seguridad públicas. Una revisión reciente del protocolo examinó contratos desplegados en Ethereum y registró hallazgos de distinta naturaleza, incluyendo problemas de bajo nivel, optimizaciones de gas e información adicional. Esto demuestra que incluso un sistema público y auditado requiere revisión continua. 
 
-También existe una revisión anterior donde se analiza específicamente el proceso de actualización de propietarios a partir del archivo `FUNDING.json`, mostrando que la interacción entre GitHub y blockchain puede introducir riesgos que deben ser considerados. :contentReference[oaicite:2]{index=2}
+También existe una revisión anterior donde se analiza específicamente el proceso de actualización de propietarios a partir del archivo `FUNDING.json`, mostrando que la interacción entre GitHub y blockchain puede introducir riesgos que deben ser considerados. 
 
 ### Conclusión de seguridad
 
@@ -1045,4 +1045,7 @@ Integración      Financiamiento
       Sostenibilidad
            ↓
    Mejora del proyecto
+
+
+
 
