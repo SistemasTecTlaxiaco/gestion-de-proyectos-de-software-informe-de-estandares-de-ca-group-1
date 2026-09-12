@@ -1,24 +1,24 @@
-\# Informe Stellar / Drips
+﻿# Informe Stellar / Drips
 
 
 
-\## Proyecto
+## Proyecto
 
 
 
-\*\*Plataforma comunitaria para la preservación y transmisión de la lengua y memoria cultural de Santa María Cuquila\*\*
+**Plataforma comunitaria para la preservaciÃ³n y transmisiÃ³n de la lengua y memoria cultural de Santa MarÃ­a Cuquila**
 
 
 
-\## Objetivo
+## Objetivo
 
 
 
-Analizar Stellar, Soroban y Drips desde una perspectiva de ingeniería de software, calidad, seguridad, financiamiento y contexto social.
+Analizar Stellar, Soroban y Drips desde una perspectiva de ingenierÃ­a de software, calidad, seguridad, financiamiento y contexto social.
 
 
 
-\## Contenido del informe
+## Contenido del informe
 
 
 
@@ -26,41 +26,41 @@ El informe incluye:
 
 
 
-\- Análisis técnico de Stellar y Soroban.
+- AnÃ¡lisis tÃ©cnico de Stellar y Soroban.
 
-\- Requisitos y criterios técnicos del Stellar Community Fund.
+- Requisitos y criterios tÃ©cnicos del Stellar Community Fund.
 
-\- Análisis técnico de Drips Protocol.
+- AnÃ¡lisis tÃ©cnico de Drips Protocol.
 
-\- Streaming, giving y splitting.
+- Streaming, giving y splitting.
 
-\- Gestión de proyectos de código abierto.
+- GestiÃ³n de proyectos de cÃ³digo abierto.
 
-\- Pruebas locales y Testnet.
+- Pruebas locales y Testnet.
 
-\- Métricas de calidad.
+- MÃ©tricas de calidad.
 
-\- Adaptación a la región Mixteca.
+- AdaptaciÃ³n a la regiÃ³n Mixteca.
 
-\- Seguridad y administración de claves.
+- Seguridad y administraciÃ³n de claves.
 
-\- Riesgos técnicos y éticos.
+- Riesgos tÃ©cnicos y Ã©ticos.
 
-\- Transparencia y privacidad.
+- Transparencia y privacidad.
 
-\- Integración entre calidad de software y economía Web3.
+- IntegraciÃ³n entre calidad de software y economÃ­a Web3.
 
-\- Relación con el backlog del proyecto.
+- RelaciÃ³n con el backlog del proyecto.
 
-\- Propuesta de implementación gradual.
-
-
-
-\## Tecnologías analizadas
+- Propuesta de implementaciÃ³n gradual.
 
 
 
-\### Stellar / Soroban
+## TecnologÃ­as analizadas
+
+
+
+### Stellar / Soroban
 
 
 
@@ -68,31 +68,31 @@ Infraestructura blockchain y plataforma de contratos inteligentes del ecosistema
 
 
 
-\### Drips
+### Drips
 
 
 
-Protocolo de financiamiento para proyectos de código abierto mediante mecanismos de distribución de fondos.
+Protocolo de financiamiento para proyectos de cÃ³digo abierto mediante mecanismos de distribuciÃ³n de fondos.
 
 
 
-\## Enfoque de calidad
+## Enfoque de calidad
 
 
 
-El análisis relaciona:
+El anÃ¡lisis relaciona:
 
 
 
-\*\*Ingeniería de software + calidad + Web3 + financiamiento + contexto comunitario\*\*
+**IngenierÃ­a de software + calidad + Web3 + financiamiento + contexto comunitario**
 
 
 
-\## Situación actual
+## SituaciÃ³n actual
 
 
 
-El proyecto se encuentra en etapa de análisis y desarrollo.
+El proyecto se encuentra en etapa de anÃ¡lisis y desarrollo.
 
 
 
@@ -100,41 +100,42 @@ Actualmente no se afirma contar con:
 
 
 
-\- contratos Soroban en producción;
+- contratos Soroban en producciÃ³n;
 
-\- integración con una wallet;
+- integraciÃ³n con una wallet;
 
-\- despliegue en Mainnet;
+- despliegue en Mainnet;
 
-\- proyecto reclamado en Drips;
+- proyecto reclamado en Drips;
 
-\- financiamiento aprobado.
-
-
-
-Las propuestas de integración Web3 presentadas en el informe corresponden a una evaluación técnica y de viabilidad.
+- financiamiento aprobado.
 
 
 
-\## Documento principal
+Las propuestas de integraciÃ³n Web3 presentadas en el informe corresponden a una evaluaciÃ³n tÃ©cnica y de viabilidad.
 
 
 
-\[INFORME-STELLAR-DRIPS.md](INFORME-STELLAR-DRIPS.md)
+## Documento principal
 
 
 
-\## Fuentes
+[INFORME-STELLAR-DRIPS.md](INFORME-STELLAR-DRIPS.md)
 
 
 
-Las fuentes oficiales de Stellar y Drips utilizadas en la investigación están documentadas al final del informe.
+## Fuentes
 
 
 
-\## Licencia
+Las fuentes oficiales de Stellar y Drips utilizadas en la investigaciÃ³n estÃ¡n documentadas al final del informe.
+
+
+
+## Licencia
 
 
 
 Este proyecto utiliza la licencia MIT.
+
 
