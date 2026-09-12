@@ -6,7 +6,7 @@
 
 
 
-**Plataforma comunitaria para la preservaciÃ³n y transmisiÃ³n de la lengua y memoria cultural de Santa MarÃ­a Cuquila**
+**Plataforma comunitaria para la preservación y transmisión de la lengua y memoria cultural de Santa María Cuquila**
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-Analizar Stellar, Soroban y Drips desde una perspectiva de ingenierÃ­a de software, calidad, seguridad, financiamiento y contexto social.
+Analizar Stellar, Soroban y Drips desde una perspectiva de ingeniería de software, calidad, seguridad, financiamiento y contexto social.
 
 
 
@@ -26,37 +26,37 @@ El informe incluye:
 
 
 
-- AnÃ¡lisis tÃ©cnico de Stellar y Soroban.
+- Análisis técnico de Stellar y Soroban.
 
-- Requisitos y criterios tÃ©cnicos del Stellar Community Fund.
+- Requisitos y criterios técnicos del Stellar Community Fund.
 
-- AnÃ¡lisis tÃ©cnico de Drips Protocol.
+- Análisis técnico de Drips Protocol.
 
 - Streaming, giving y splitting.
 
-- GestiÃ³n de proyectos de cÃ³digo abierto.
+- Gestión de proyectos de código abierto.
 
 - Pruebas locales y Testnet.
 
-- MÃ©tricas de calidad.
+- Métricas de calidad.
 
-- AdaptaciÃ³n a la regiÃ³n Mixteca.
+- Adaptación a la región Mixteca.
 
-- Seguridad y administraciÃ³n de claves.
+- Seguridad y administración de claves.
 
-- Riesgos tÃ©cnicos y Ã©ticos.
+- Riesgos técnicos y éticos.
 
 - Transparencia y privacidad.
 
-- IntegraciÃ³n entre calidad de software y economÃ­a Web3.
+- Integración entre calidad de software y economía Web3.
 
-- RelaciÃ³n con el backlog del proyecto.
+- Relación con el backlog del proyecto.
 
-- Propuesta de implementaciÃ³n gradual.
+- Propuesta de implementación gradual.
 
 
 
-## TecnologÃ­as analizadas
+## Tecnologías analizadas
 
 
 
@@ -72,7 +72,7 @@ Infraestructura blockchain y plataforma de contratos inteligentes del ecosistema
 
 
 
-Protocolo de financiamiento para proyectos de cÃ³digo abierto mediante mecanismos de distribuciÃ³n de fondos.
+Protocolo de financiamiento para proyectos de código abierto mediante mecanismos de distribución de fondos.
 
 
 
@@ -80,19 +80,19 @@ Protocolo de financiamiento para proyectos de cÃ³digo abierto mediante mecanis
 
 
 
-El anÃ¡lisis relaciona:
+El análisis relaciona:
 
 
 
-**IngenierÃ­a de software + calidad + Web3 + financiamiento + contexto comunitario**
+**Ingeniería de software + calidad + Web3 + financiamiento + contexto comunitario**
 
 
 
-## SituaciÃ³n actual
+## Situación actual
 
 
 
-El proyecto se encuentra en etapa de anÃ¡lisis y desarrollo.
+El proyecto se encuentra en etapa de análisis y desarrollo.
 
 
 
@@ -100,9 +100,9 @@ Actualmente no se afirma contar con:
 
 
 
-- contratos Soroban en producciÃ³n;
+- contratos Soroban en producción;
 
-- integraciÃ³n con una wallet;
+- integración con una wallet;
 
 - despliegue en Mainnet;
 
@@ -112,7 +112,7 @@ Actualmente no se afirma contar con:
 
 
 
-Las propuestas de integraciÃ³n Web3 presentadas en el informe corresponden a una evaluaciÃ³n tÃ©cnica y de viabilidad.
+Las propuestas de integración Web3 presentadas en el informe corresponden a una evaluación técnica y de viabilidad.
 
 
 
@@ -128,7 +128,7 @@ Las propuestas de integraciÃ³n Web3 presentadas en el informe corresponden a u
 
 
 
-Las fuentes oficiales de Stellar y Drips utilizadas en la investigaciÃ³n estÃ¡n documentadas al final del informe.
+Las fuentes oficiales de Stellar y Drips utilizadas en la investigación están documentadas al final del informe.
 
 
 
@@ -137,5 +137,6 @@ Las fuentes oficiales de Stellar y Drips utilizadas en la investigaciÃ³n estÃ
 
 
 Este proyecto utiliza la licencia MIT.
+
 
 
