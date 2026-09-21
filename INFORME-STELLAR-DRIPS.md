@@ -362,7 +362,7 @@ https://docs.drips.network/the-protocol/overview/
 
 ## 6.2 Streaming de fondos
 
-El streaming permite distribuir fondos progresivamente durante un periodo de tiempo.
+El streaming permite distribuir fondos progresivos durante un lapso de tiempo.
 
 En lugar de realizar una única transferencia, se establece una tasa de distribución y el receptor puede obtener los fondos que correspondan conforme transcurre el tiempo definido.
 
